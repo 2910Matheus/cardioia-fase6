@@ -1,5 +1,10 @@
 # CardioIA - Fase 6: Sistema Preditivo Multiagente para Eventos Cardíacos
 
+## Integrantes do Grupo
+*   **Bruno Henrique Nielsen Conter** (RM560518)
+*   **Fabio Santos Cardoso** (RM560479)
+*   **Matheus Augusto Rodrigues Maia** (RM560683)
+
 Este repositório contém a implementação da Fase 6 do projeto CardioIA, que foca no desenvolvimento de um sistema preditivo multiagente para eventos cardíacos. O projeto integra um modelo de Machine Learning para previsão de risco com uma arquitetura multiagente baseada no **OpenAI Agents SDK**, utilizando o endpoint compatível do Google Gemini.
 
 ## Estrutura do Projeto
