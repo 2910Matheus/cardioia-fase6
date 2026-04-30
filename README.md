@@ -98,8 +98,5 @@ O sistema utiliza o **OpenAI Agents SDK** com as seguintes funcionalidades:
 
 Um vídeo demonstrando o fluxo completo do sistema (entrada do novo paciente → acionamento dos agentes → geração da resposta final) está disponível no YouTube (não listado):
 
-[Link para o Vídeo Demonstrativo]((https://youtu.be/KvHgcYQLBPk))
+[Link para o Vídeo Demonstrativo]([https://youtu.be/KvHgcYQLBPk])
 
-## Acesso ao Repositório (Privado)
-
-Este repositório é privado. Para acesso, por favor, entre em contato com o professor responsável.
