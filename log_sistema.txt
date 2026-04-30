@@ -1,0 +1,46 @@
+============================================================
+   CARDIOIA - Log do Sistema Multiagente
+============================================================
+
+Dados do Paciente: {
+  "idade": 68,
+  "frequencia_cardiaca": 95,
+  "spo2": 92,
+  "carga_sistema": 0.7,
+  "disponibilidade_recursos": 0.5,
+  "historico_cardiaco": 1
+}
+
+Agente Final: Agente Orquestrador CardioIA
+
+============================================================
+   RELATÓRIO FINAL
+============================================================
+**Recomendação Final de Risco Cardíaco**
+
+*   **Probabilidade Prevista:** 90.00%
+*   **Classificação de Risco:** Alto Risco
+*   **Protocolos Sugeridos:**
+    *   Monitoramento contínuo em UTI.
+    *   Administração imediata de antiagregantes plaquetários.
+    *   Acionamento da equipe de hemodinâmica.
+*   **Justificativa Clínica:** O paciente apresenta um quadro de alto risco cardíaco, evidenciado pela probabilidade de 90.00%. Fatores como idade (68 anos), frequência cardíaca elevada (95 bpm), baixa saturação de oxigênio (SPO2 de 92%) e histórico cardíaco contribuem para essa classificação. A recomendação de monitoramento intensivo em UTI, o uso de antiagregantes plaquetários e o acionamento da equipe de hemodinâmica são medidas cruciais para a gestão imediata e prevenção de eventos cardiovasculares agudos nesta condição.
+
+============================================================
+   HISTÓRICO DE MENSAGENS
+============================================================
+
+[0] user:
+Analise o seguinte paciente para risco cardíaco:
+
+Dados clínicos do paciente:
+- Idade: 68
+- Frequência Cardíaca: 95
+- SPO2: 92
+- Carga do Sistema: 0.7
+- Disponibilidade de Recursos: 0.5
+- Histórico Cardíaco: 1
+
+Siga o fluxo completo: primeiro analise o risco, depois consulte os protocolos
+e por fim gere a recomendação final com probabilidade, classificação, protocolos
+e justificativa clínica.

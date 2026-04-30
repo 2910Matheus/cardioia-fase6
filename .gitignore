@@ -1,0 +1,11 @@
+# Dependências e cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivo de variáveis de ambiente (contém API key)
+.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
